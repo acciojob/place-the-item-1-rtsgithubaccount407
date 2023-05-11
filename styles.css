@@ -1,2 +1,24 @@
+.main{
+	display:flex;
+	justify-content:space-between;
+}
+.row-1{
+	 width:130px;
+	height:130px;
+	background-color:green;
+	font-size:45px;
+}
+.row-2{
+	 width:130px;
+	height:130px;
+	background-color:red;
+	font-size:45px;
+}
+.row-3{
+	 width:130px;
+	height:130px;
+	background-color:blue;
+	font-size:45px;
+}
 
 /* Your CSS Code here. */
